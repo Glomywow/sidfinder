@@ -1,1 +1,0 @@
-wmic useraccount where (name='administrator' and domain='%userdomain%') get name,sid
